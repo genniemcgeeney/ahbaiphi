@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://yaepheobu.while-true-do.io/sitemap.xml
